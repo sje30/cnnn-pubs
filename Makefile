@@ -6,3 +6,4 @@ nodepubs.html: nodepubs.Rmd ukcnnn.bib
 clean:
 	rm -f nodepubs.html nodepubs.md
 
+## commit: git commit -a -m 'rebuild nodepubs.html'
