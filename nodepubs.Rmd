@@ -1,0 +1,51 @@
+# UK Node publications
+
+This page lists some recent publications from members of the UK node.
+It is not meant to be exhaustive but shows the breadth of
+neuroinformatics work performed by some of our members.
+
+If you are part of the UK neuroinformatics community and wish to add a
+publication to the list, just email Stephen Eglen the DOI and/or
+pubmed reference.  Please do not send more than one or two papers so
+that we maintain a diversity of publications from different research
+groups.
+
+```{r setup, include = TRUE, cache = FALSE,include=FALSE}
+library(RefManageR)
+file = "ukcnnn.bib"
+BibOptions(check.entries = FALSE, style = "markdown", bib.style = "authoryear", cite.style = 'alphabetic')
+bib = ReadBib(file, check="error")
+```
+
+
+### 2014 publications
+```{r, results='asis',echo=FALSE}
+bib[year=2014]
+```
+
+### 2013 publications
+
+```{r, results='asis',echo=FALSE}
+bib[year=2013]
+```
+
+### 2012 publications
+
+```{r, results='asis',echo=FALSE}
+bib[year=2012]
+```
+
+## About this document
+
+This document is created by some great [R](http://www.r-project.org)
+software, namely [knitr](http://yihui.name/knitr/) and
+[RefManageR](http://cran.r-project.org/web/packages/RefManageR/index.html).
+The bibtex file is curated by [paperpile](http://paperpile.com).
+
+
+To compile the document:
+
+```{r,eval=FALSE}
+require(knitr)
+knit2html("nodepubs.Rmd")
+```
