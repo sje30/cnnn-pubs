@@ -38,6 +38,12 @@ extend spatio-temporal integration in a L5 cortical pyramidal cell
 model". In: _PLoS Comput. Biol._ 10.4, p. e1003590. DOI:
 [10.1371/journal.pcbi.1003590](http://dx.doi.org/10.1371/journal.pcbi.1003590).
 
+Graham, B. P, A. Saudargiene and S. Cobb (2014). "Spine Head
+Calcium as a Measure of Summed Postsynaptic Activity for Driving
+Synaptic Plasticity". In: _Neural Comput._, pp. 1-29. ISSN:
+0899-7667. DOI:
+[10.1162/NECO\_a\_00640](http://dx.doi.org/10.1162/NECO\_a\_00640).
+
 Ito, K, K. Shinomiya, M. Ito, et al. (2014). "A systematic
 nomenclature for the insect brain". In: _Neuron_ 81.4, pp.
 755-765. DOI:
@@ -60,6 +66,12 @@ excitotoxicity involves astrocytic activation and the inhibition
 of MAP kinase signalling pathways". In: _Neuropharmacology_ 76 Pt
 A, pp. 184-193. DOI:
 [10.1016/j.neuropharm.2013.06.025](http://dx.doi.org/10.1016/j.neuropharm.2013.06.025).
+
+Staiger, J. F, I. Bojak, S. Miceli, et al. (2014). "A gradual
+depth-dependent change in connectivity features of supragranular
+pyramidal cells in rat barrel cortex". In: _Brain Struct. Funct._.
+ISSN: 1863-2653. DOI:
+[10.1007/s00429-014-0726-8](http://dx.doi.org/10.1007/s00429-014-0726-8).
 
 Wang, S, T. J. Koickal, A. Hamilton, et al. (2014). "A
 Bio-Realistic Analog CMOS Cochlea Filter With High Tunability and
