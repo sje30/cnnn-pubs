@@ -108,6 +108,12 @@ of MAP kinase signalling pathways". In: _Neuropharmacology_ 76 Pt
 A, pp. 184-193. DOI:
 [10.1016/j.neuropharm.2013.06.025](http://dx.doi.org/10.1016/j.neuropharm.2013.06.025).
 
+Sousa, G. de, R. Maex, R. Adams, N. Davey and V. Steuber (2014).
+"Dendritic morphology predicts pattern recognition performance in
+multi-compartmental model neurons with and without active
+conductances". In: _J. Comput. Neurosci._. ISSN: 0929-5313. DOI:
+[10.1007/s10827-014-0537-1](http://dx.doi.org/10.1007/s10827-014-0537-1).
+
 Staiger, J. F, I. Bojak, S. Miceli and D. Schubert (2014). "A
 gradual depth-dependent change in connectivity features of
 supragranular pyramidal cells in rat barrel cortex". In: _Brain
@@ -167,11 +173,22 @@ population dynamics in the neonatal mouse". In: _J. Physiol._
 592.Pt 7, pp. 1545-1563. DOI:
 [10.1113/jphysiol.2013.262840](http://dx.doi.org/10.1113/jphysiol.2013.262840).
 
+Maex, R. and V. Steuber (2013). "An integrator circuit in
+cerebellar cortex". In: _Eur. J. Neurosci._ 38.6, pp. 2917-2932.
+ISSN: 0953-816X. DOI:
+[10.1111/ejn.12272](http://dx.doi.org/10.1111/ejn.12272).
+
 Nowotny, T, J. S. Stierle, C. G. Galizia and P. Szyszka (2013).
 "Data-driven honeybee antennal lobe model suggests how
 stimulus-onset asynchrony can aid odour segregation". In: _Brain
 Res._ 1536, pp. 119-134. DOI:
 [10.1016/j.brainres.2013.05.038](http://dx.doi.org/10.1016/j.brainres.2013.05.038).
+
+Pissadaki, E. K. and J. P. Bolam (2013). "The energy cost of
+action potential propagation in dopamine neurons: clues to
+susceptibility in Parkinson's disease". In: _Front. Comput.
+Neurosci._ 7, p. 13. ISSN: 1662-5188. DOI:
+[10.3389/fncom.2013.00013](http://dx.doi.org/10.3389/fncom.2013.00013).
 
 Saleem, A. B, A. Ayaz, K. J. Jeffery, K. D. Harris and M.
 Carandini (2013). "Integration of visual motion and locomotion in
