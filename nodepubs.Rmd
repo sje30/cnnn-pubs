@@ -14,7 +14,7 @@ groups.
 ```{r setup, include = TRUE, cache = FALSE,include=FALSE}
 library(RefManageR)
 file = "ukcnnn.bib"
-BibOptions(check.entries = FALSE, style = "markdown", bib.style = "authoryear", cite.style = 'alphabetic')
+BibOptions(check.entries = FALSE, style = "markdown", bib.style = "authoryear", cite.style = 'alphabetic', max.names=7)
 bib = ReadBib(file, check="error")
 ```
 
