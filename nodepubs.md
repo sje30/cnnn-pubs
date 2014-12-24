@@ -21,6 +21,12 @@ Enables Lossless Sparse Encoding". In: _Neuron_ 83.4, pp. 960-974.
 DOI:
 [10.1016/j.neuron.2014.07.020](http://dx.doi.org/10.1016/j.neuron.2014.07.020).
 
+Cutts, C. S. and S. J. Eglen (2014). "Detecting Pairwise
+Correlations in Spike Trains: An Objective Comparison of Methods
+and Application to the Study of Retinal Waves". In: _J. Neurosci._
+34.43, pp. 14288-14303. ISSN: 0270-6474. DOI:
+[10.1523/JNEUROSCI.2767-14.2014](http://dx.doi.org/10.1523/JNEUROSCI.2767-14.2014).
+
 Duffin, E, A. R. Bland, A. Schaefer and M. de Kamps (2014).
 "Differential effects of reward and punishment in decision making
 under uncertainty: a computational study". In: _Front. Neurosci._
