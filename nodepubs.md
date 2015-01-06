@@ -21,6 +21,11 @@ Enables Lossless Sparse Encoding". In: _Neuron_ 83.4, pp. 960-974.
 DOI:
 [10.1016/j.neuron.2014.07.020](http://dx.doi.org/10.1016/j.neuron.2014.07.020).
 
+Botcharova, M, S. F. Farmer and L. Berthouze (2014). "Markers of
+criticality in phase synchronization". In: _Front. Syst.
+Neurosci._ 8, p. 176. ISSN: 1662-5137. DOI:
+[10.3389/fnsys.2014.00176](http://dx.doi.org/10.3389/fnsys.2014.00176).
+
 Cutts, C. S. and S. J. Eglen (2014). "Detecting Pairwise
 Correlations in Spike Trains: An Objective Comparison of Methods
 and Application to the Study of Retinal Waves". In: _J. Neurosci._
@@ -88,6 +93,12 @@ motivational value associated with primary punishment in humans".
 In: _Proc. Natl. Acad. Sci. U. S. A._ 111.32, pp. 11858-11863.
 DOI:
 [10.1073/pnas.1323586111](http://dx.doi.org/10.1073/pnas.1323586111).
+
+Li, W, R. Merrison-Hort, H. Zhang and R. Borisyuk (2014). "The
+generation of antiphase oscillations and synchrony by a
+rebound-based vertebrate central pattern generator". In: _J.
+Neurosci._ 34.17, pp. 6065-6077. ISSN: 0270-6474. DOI:
+[10.1523/JNEUROSCI.4198-13.2014](http://dx.doi.org/10.1523/JNEUROSCI.4198-13.2014).
 
 Mangano, G. R, M. Oliveri, P. Turriziani, D. Smirni, L. Zhaoping
 and L. Cipolotti (2014). "Impairments in top down attentional
@@ -181,10 +192,23 @@ Ca2+ channels". In: _Nat. Neurosci._ 16.12, pp. 1754-1763. ISSN:
 1097-6256. DOI:
 [10.1038/nn.3563](http://dx.doi.org/10.1038/nn.3563).
 
+Hunter, P. R, A. S. Lowe, I. D. Thompson and M. P. Meyer (2013).
+"Emergent properties of the optic tectum revealed by population
+analysis of direction and orientation selectivity". In: _J.
+Neurosci._ 33.35, pp. 13940-13945. ISSN: 0270-6474. DOI:
+[10.1523/JNEUROSCI.1493-13.2013](http://dx.doi.org/10.1523/JNEUROSCI.1493-13.2013).
+
 Jingling, L, C. Tseng and L. Zhaoping (2013). "Orientation is
 different: Interaction between contour integration and feature
 contrasts in visual search". In: _J. Vis._ 13.3. ISSN: 1534-7362.
 DOI: [10.1167/13.3.26](http://dx.doi.org/10.1167/13.3.26).
+
+Lowe, A. S, N. Nikolaou, P. R. Hunter, I. D. Thompson and M. P.
+Meyer (2013). "A systems-based dissection of retinal inputs to the
+zebrafish tectum reveals different rules for different functional
+classes during development". In: _J. Neurosci._ 33.35, pp.
+13946-13956. ISSN: 0270-6474. DOI:
+[10.1523/JNEUROSCI.1866-13.2013](http://dx.doi.org/10.1523/JNEUROSCI.1866-13.2013).
 
 Maccione, A, M. H. Hennig, M. Gandolfo, O. Muthmann, J. van
 Coppenhagen, S. J. Eglen, L. Berdondini, et al. (2013). "Following
@@ -247,6 +271,12 @@ domains modulates self-experience in the rubber-hand illusion".
 In: _Neuropsychologia_ 51.13, pp. 2909-2917. ISSN: 0028-3932. DOI:
 [10.1016/j.neuropsychologia.2013.08.014](http://dx.doi.org/10.1016/j.neuropsychologia.2013.08.014).
 
+Taylor, T. J, C. Hartley, P. L. Simon, I. Z. Kiss and L. Berthouze
+(2013). "Identification of Criticality in Neuronal Avalanches: I.
+A Theoretical Investigation of the Non-driven Case". In: _J. Math.
+Neurosci._ 3.1, p. 5. ISSN: 2190-8567. DOI:
+[10.1186/2190-8567-3-5](http://dx.doi.org/10.1186/2190-8567-3-5).
+
 Thompson, P. M, T. Ge, D. C. Glahn, N. Jahanshad and T. E. Nichols
 (2013). "Genetics of the connectome". In: _Neuroimage_ 80, pp.
 475-488. ISSN: 1053-8119. DOI:
@@ -264,6 +294,12 @@ fitting of conductance-based model neurons from somatic current
 clamp". In: _J. Comput. Neurosci._ 32.1, pp. 1-24. ISSN:
 0929-5313. DOI:
 [10.1007/s10827-011-0331-2](http://dx.doi.org/10.1007/s10827-011-0331-2).
+
+Yousif, N, R. Borisyuk, N. Pavese, D. Nandi and P. Bain (2012).
+"Spatiotemporal visualization of deep brain stimulation-induced
+effects in the subthalamic nucleus". In: _Eur. J. Neurosci._ 36.2,
+pp. 2252-2259. ISSN: 0953-816X. DOI:
+[10.1111/j.1460-9568.2012.08086.x](http://dx.doi.org/10.1111/j.1460-9568.2012.08086.x).
 
 ## About this document
 
