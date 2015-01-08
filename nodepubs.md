@@ -20,6 +20,13 @@ Abuhassan, K, D. Coyle, A. Belatreche and L. Maguire (2014).
 Comput. Neurosci._ 36.1, pp. 19-37. ISSN: 0929-5313. DOI:
 [10.1007/s10827-013-0462-8](http://dx.doi.org/10.1007/s10827-013-0462-8).
 
+Beste, C, M. Humphries and C. Saft (2014). "Striatal disorders
+dissociate mechanisms of enhanced and impaired response selection
+- Evidence from cognitive neurophysiology and computational
+modelling". In: _NeuroImage: Clinical_ 4.0, pp. 623-634. ISSN:
+2213-1582. DOI:
+[10.1016/j.nicl.2014.04.003](http://dx.doi.org/10.1016/j.nicl.2014.04.003).
+
 Billings, G, E. Piasini, A. Lőrincz, Z. Nusser and R. A. Silver
 (2014). "Network Structure within the Cerebellar Input Layer
 Enables Lossless Sparse Encoding". In: _Neuron_ 83.4, pp. 960-974.
@@ -30,6 +37,12 @@ Botcharova, M, S. F. Farmer and L. Berthouze (2014). "Markers of
 criticality in phase synchronization". In: _Front. Syst.
 Neurosci._ 8, p. 176. ISSN: 1662-5137. DOI:
 [10.3389/fnsys.2014.00176](http://dx.doi.org/10.3389/fnsys.2014.00176).
+
+Carron, R, A. Filipchuk, R. Nardou, A. Singh, F. J. Michel, M. D.
+Humphries and C. Hammond (2014). "Early hypersynchrony in juvenile
+PINK1−/− motor cortex is rescued by antidromic stimulation". In:
+_Front. Syst. Neurosci._ 8. ISSN: 1662-5137. DOI:
+[10.3389/fnsys.2014.00095](http://dx.doi.org/10.3389/fnsys.2014.00095).
 
 Cutts, C. S. and S. J. Eglen (2014). "Detecting Pairwise
 Correlations in Spike Trains: An Objective Comparison of Methods
