@@ -15,6 +15,11 @@ groups.
 
 
 ### 2014 publications
+Abuhassan, K, D. Coyle, A. Belatreche and L. Maguire (2014).
+"Compensating for synaptic loss in Alzheimer's disease". In: _J.
+Comput. Neurosci._ 36.1, pp. 19-37. ISSN: 0929-5313. DOI:
+[10.1007/s10827-013-0462-8](http://dx.doi.org/10.1007/s10827-013-0462-8).
+
 Billings, G, E. Piasini, A. Lőrincz, Z. Nusser and R. A. Silver
 (2014). "Network Structure within the Cerebellar Input Layer
 Enables Lossless Sparse Encoding". In: _Neuron_ 83.4, pp. 960-974.
