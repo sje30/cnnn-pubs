@@ -56,6 +56,12 @@ pyramidal cell model". In: _PLoS Comput. Biol._ 10.4, p. e1003590.
 DOI:
 [10.1371/journal.pcbi.1003590](http://dx.doi.org/10.1371/journal.pcbi.1003590).
 
+Fenton, G. E, D. M. Halliday, R. Mason and C. W. Stevenson (2014).
+"Medial prefrontal cortex circuit function during retrieval and
+extinction of associative learning under anesthesia". In:
+_Neuroscience_ 265, pp. 204-216. ISSN: 0306-4522. DOI:
+[10.1016/j.neuroscience.2014.01.028](http://dx.doi.org/10.1016/j.neuroscience.2014.01.028).
+
 Graham, B. P, A. Saudargiene and S. Cobb (2014). "Spine Head
 Calcium as a Measure of Summed Postsynaptic Activity for Driving
 Synaptic Plasticity". In: _Neural Comput._, pp. 1-29. ISSN:
@@ -207,6 +213,12 @@ triggering of spontaneous glutamate release by P/Q-, N- and R-type
 Ca2+ channels". In: _Nat. Neurosci._ 16.12, pp. 1754-1763. ISSN:
 1097-6256. DOI:
 [10.1038/nn.3563](http://dx.doi.org/10.1038/nn.3563).
+
+Fenton, G. E, C. H. Spicer, D. M. Halliday, R. Mason and C. W.
+Stevenson (2013). "Basolateral amygdala activity during the
+retrieval of associative learning under anesthesia". In:
+_Neuroscience_ 233, pp. 146-156. ISSN: 0306-4522. DOI:
+[10.1016/j.neuroscience.2012.12.039](http://dx.doi.org/10.1016/j.neuroscience.2012.12.039).
 
 Hunter, P. R, A. S. Lowe, I. D. Thompson and M. P. Meyer (2013).
 "Emergent properties of the optic tectum revealed by population
