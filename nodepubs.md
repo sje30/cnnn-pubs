@@ -100,6 +100,11 @@ rebound-based vertebrate central pattern generator". In: _J.
 Neurosci._ 34.17, pp. 6065-6077. ISSN: 0270-6474. DOI:
 [10.1523/JNEUROSCI.4198-13.2014](http://dx.doi.org/10.1523/JNEUROSCI.4198-13.2014).
 
+Madl, T, S. Franklin, K. Chen, D. Montaldi and R. Trappl (2014).
+"Bayesian integration of information in hippocampal place cells".
+In: _PLoS One_ 9.3, p. e89762. ISSN: 1932-6203. DOI:
+[10.1371/journal.pone.0089762](http://dx.doi.org/10.1371/journal.pone.0089762).
+
 Mangano, G. R, M. Oliveri, P. Turriziani, D. Smirni, L. Zhaoping
 and L. Cipolotti (2014). "Impairments in top down attentional
 processes in right parietal patients: paradoxical functional
@@ -185,6 +190,12 @@ Propofol, and the EEG: A Neural Field Analysis of HCN1-Mediated
 Interactions". In: _Front. Comput. Neurosci._ 7, p. 22. DOI:
 [10.3389/fncom.2013.00022](http://dx.doi.org/10.3389/fncom.2013.00022).
 
+Costa, R. P, P. J. Sjöström and M. C. W. van Rossum (2013).
+"Probabilistic inference of short-term synaptic plasticity in
+neocortical microcircuits". In: _Front. Comput. Neurosci._ 7, p.
+75. ISSN: 1662-5188. DOI:
+[10.3389/fncom.2013.00075](http://dx.doi.org/10.3389/fncom.2013.00075).
+
 Ermolyuk, Y. S, F. G. Alder, R. Surges, I. Y. Pavlov, Y.
 Timofeeva, D. M. Kullmann and K. E. Volynski (2013). "Differential
 triggering of spontaneous glutamate release by P/Q-, N- and R-type
@@ -221,6 +232,12 @@ Maex, R. and V. Steuber (2013). "An integrator circuit in
 cerebellar cortex". In: _Eur. J. Neurosci._ 38.6, pp. 2917-2932.
 ISSN: 0953-816X. DOI:
 [10.1111/ejn.12272](http://dx.doi.org/10.1111/ejn.12272).
+
+Maul, T, A. Bargiela, Y. Yan, N. Gao and A. Foss (2013).
+"Simulation Modelling Study of Self-Assembled Nanoparticle
+Coatings for Retinal Implants". In: _J. Bionic Eng._ 10.1, pp.
+65-76. ISSN: 1672-6529. DOI:
+[10.1016/S1672-6529(13)60200-0](http://dx.doi.org/10.1016/S1672-6529(13)60200-0).
 
 Nowotny, T, J. S. Stierle, C. G. Galizia and P. Szyszka (2013).
 "Data-driven honeybee antennal lobe model suggests how
@@ -283,6 +300,13 @@ Thompson, P. M, T. Ge, D. C. Glahn, N. Jahanshad and T. E. Nichols
 [10.1016/j.neuroimage.2013.05.013](http://dx.doi.org/10.1016/j.neuroimage.2013.05.013).
 
 ### 2012 publications
+
+Buchanan, K. A, A. V. Blackman, A. W. Moreau, D. Elgar, R. P.
+Costa, T. Lalanne, A. A. Tudor Jones, et al. (2012).
+"Target-specific expression of presynaptic NMDA receptors in
+neocortical microcircuits". In: _Neuron_ 75.3, pp. 451-466. ISSN:
+0896-6273. DOI:
+[10.1016/j.neuron.2012.06.017](http://dx.doi.org/10.1016/j.neuron.2012.06.017).
 
 Crook, S. M, J. A. Bednar, S. Berger, R. Cannon, A. P. Davison, M.
 Djurfeldt, J. Eppler, et al. (2012). "Creating, documenting and
