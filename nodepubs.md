@@ -21,8 +21,8 @@ Comput. Neurosci._ 36.1, pp. 19-37. ISSN: 0929-5313. DOI:
 [10.1007/s10827-013-0462-8](http://dx.doi.org/10.1007/s10827-013-0462-8).
 
 Beste, C, M. Humphries and C. Saft (2014). "Striatal disorders
-dissociate mechanisms of enhanced and impaired response selection
-- Evidence from cognitive neurophysiology and computational
+dissociate mechanisms of enhanced and impaired response selection.
+Evidence from cognitive neurophysiology and computational
 modelling". In: _NeuroImage: Clinical_ 4.0, pp. 623-634. ISSN:
 2213-1582. DOI:
 [10.1016/j.nicl.2014.04.003](http://dx.doi.org/10.1016/j.nicl.2014.04.003).
