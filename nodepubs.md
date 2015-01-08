@@ -228,6 +228,12 @@ population dynamics in the neonatal mouse". In: _J. Physiol._
 592.Pt 7, pp. 1545-1563. DOI:
 [10.1113/jphysiol.2013.262840](http://dx.doi.org/10.1113/jphysiol.2013.262840).
 
+MacGregor, D. J. and G. Leng (2013). "Spike triggered hormone
+secretion in vasopressin cells; a model investigation of mechanism
+and heterogeneous population function". In: _PLoS Comput. Biol._
+9.8, p. e1003187. ISSN: 1553-734X. DOI:
+[10.1371/journal.pcbi.1003187](http://dx.doi.org/10.1371/journal.pcbi.1003187).
+
 Maex, R. and V. Steuber (2013). "An integrator circuit in
 cerebellar cortex". In: _Eur. J. Neurosci._ 38.6, pp. 2917-2932.
 ISSN: 0953-816X. DOI:
@@ -318,6 +324,12 @@ fitting of conductance-based model neurons from somatic current
 clamp". In: _J. Comput. Neurosci._ 32.1, pp. 1-24. ISSN:
 0929-5313. DOI:
 [10.1007/s10827-011-0331-2](http://dx.doi.org/10.1007/s10827-011-0331-2).
+
+MacGregor, D. J. and G. Leng (2012). "Phasic firing in vasopressin
+cells: understanding its functional significance through
+computational models". In: _PLoS Comput. Biol._ 8.10, p. e1002740.
+ISSN: 1553-734X. DOI:
+[10.1371/journal.pcbi.1002740](http://dx.doi.org/10.1371/journal.pcbi.1002740).
 
 Yousif, N, R. Borisyuk, N. Pavese, D. Nandi and P. Bain (2012).
 "Spatiotemporal visualization of deep brain stimulation-induced
