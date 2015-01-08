@@ -177,6 +177,12 @@ the developing locust: looming detectors and predator avoidance".
 In: _Dev. Neurobiol._ 74.11, pp. 1078-1095. ISSN: 1932-8451. DOI:
 [10.1002/dneu.22184](http://dx.doi.org/10.1002/dneu.22184).
 
+Taylor, P. N, Y. Wang, M. Goodfellow, J. Dauwels, F. Moeller, U.
+Stephani and G. Baier (2014). "A computational study of stimulus
+driven epileptic seizure abatement". In: _PLoS One_ 9.12, p.
+e114316. ISSN: 1932-6203. DOI:
+[10.1371/journal.pone.0114316](http://dx.doi.org/10.1371/journal.pone.0114316).
+
 Tomsett, R. J, M. Ainsworth, A. Thiele, M. Sanayei, X. Chen, M. A.
 Gieselmann, M. A. Whittington, et al. (2014). "Virtual Electrode
 Recording Tool for EXtracellular potentials (VERTEX): comparing
