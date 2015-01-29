@@ -1,7 +1,7 @@
 # UK Neuroinformatics publications
 
 This page lists some recent publications in
-[Computational Neuroscience and Neuroinformatics by UK researchers](http://uk.incf.org).
+[Computational Neuroscience and Neuroinformatics by UK researchers](http://neuroinformatics.org.uk).
 It is not meant to be exhaustive but shows the breadth of
 neuroinformatics work performed in the UK.
 
