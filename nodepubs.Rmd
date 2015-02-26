@@ -21,19 +21,19 @@ bib = ReadBib(file, check="error")
 
 ### 2014 publications
 ```{r, results='asis',echo=FALSE}
-bib[year=2014]
+bib[year="2014"]
 ```
 
 ### 2013 publications
 
 ```{r, results='asis',echo=FALSE}
-bib[year=2013]
+bib[year="2013"]
 ```
 
 ### 2012 publications
 
 ```{r, results='asis',echo=FALSE}
-bib[year=2012]
+bib[year="2012"]
 ```
 
 ## About this document
