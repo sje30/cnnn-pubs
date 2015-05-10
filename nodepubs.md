@@ -204,6 +204,12 @@ cortical tissue". In: _Brain Struct. Funct._. ISSN: 1863-2653.
 DOI:
 [10.1007/s00429-014-0793-x](http://dx.doi.org/10.1007/s00429-014-0793-x).
 
+Vértes, P. E, A. Alexander-Bloch and E. T. Bullmore (2014).
+"Generative models of rich clubs in Hebbian neuronal networks and
+large-scale human brain networks". In: _Philos. Trans. R. Soc.
+Lond. B Biol. Sci._ 369.1653. ISSN: 0962-8436, 1471-2970. DOI:
+[10.1098/rstb.2013.0531](http://dx.doi.org/10.1098/rstb.2013.0531).
+
 Wang, S, T. J. Koickal, A. Hamilton, R. Cheung and L. S. Smith
 (2014). "A Bio-Realistic Analog CMOS Cochlea Filter With High
 Tunability and Ultra-Steep Roll-Off". In: _IEEE Trans. Biomed.
@@ -300,6 +306,12 @@ Coatings for Retinal Implants". In: _J. Bionic Eng._ 10.1, pp.
 65-76. ISSN: 1672-6529. DOI:
 [10.1016/S1672-6529(13)60200-0](http://dx.doi.org/10.1016/S1672-6529(13)60200-0).
 
+Nicosia, V, P. E. Vértes, W. R. Schafer, V. Latora and E. T.
+Bullmore (2013). "Phase transition in the economically modeled
+growth of a cellular nervous system". In: _Proc. Natl. Acad. Sci.
+U. S. A._ 110.19, pp. 7880-7885. ISSN: 0027-8424, 1091-6490. DOI:
+[10.1073/pnas.1300753110](http://dx.doi.org/10.1073/pnas.1300753110).
+
 Nowotny, T, J. S. Stierle, C. G. Galizia and P. Szyszka (2013).
 "Data-driven honeybee antennal lobe model suggests how
 stimulus-onset asynchrony can aid odour segregation". In: _Brain
@@ -359,6 +371,12 @@ Thompson, P. M, T. Ge, D. C. Glahn, N. Jahanshad and T. E. Nichols
 (2013). "Genetics of the connectome". In: _Neuroimage_ 80, pp.
 475-488. ISSN: 1053-8119. DOI:
 [10.1016/j.neuroimage.2013.05.013](http://dx.doi.org/10.1016/j.neuroimage.2013.05.013).
+
+Towlson, E. K, P. E. Vértes, S. E. Ahnert, W. R. Schafer and E. T.
+Bullmore (2013). "The rich club of the C. elegans neuronal
+connectome". In: _J. Neurosci._ 33.15, pp. 6380-6387. ISSN:
+0270-6474, 1529-2401. DOI:
+[10.1523/JNEUROSCI.3784-12.2013](http://dx.doi.org/10.1523/JNEUROSCI.3784-12.2013).
 
 ### 2012 publications
 
