@@ -19,6 +19,11 @@ bib = ReadBib(file, check="error")
 ```
 
 
+### 2015 publications
+```{r, results='asis',echo=FALSE}
+bib[year="2015"]
+```
+
 ### 2014 publications
 ```{r, results='asis',echo=FALSE}
 bib[year="2014"]

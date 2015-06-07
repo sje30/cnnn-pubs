@@ -14,6 +14,19 @@ groups.
 
 
 
+### 2015 publications
+Charlesworth, P, E. Cotterill, A. Morton, S. Grant and S. J. Eglen
+(2015). "Quantitative differences in developmental profiles of
+spontaneous activity in cortical and hippocampal cultures". In:
+_Neural Dev._ 10.1, p. 1. ISSN: 1749-8104. DOI:
+[10.1186/s13064-014-0028-0](http://dx.doi.org/10.1186/s13064-014-0028-0).
+
+Hjorth, J. J. J, D. C. Sterratt, C. S. Cutts, D. J. Willshaw and
+S. J. Eglen (2015). "Quantitative assessment of computational
+models for retinotopic map formation". In: _Dev. Neurobiol._ 75.6,
+pp. 641-666. ISSN: 1932-8451, 1932-846X. DOI:
+[10.1002/dneu.22241](http://dx.doi.org/10.1002/dneu.22241).
+
 ### 2014 publications
 Abuhassan, K, D. Coyle, A. Belatreche and L. Maguire (2014).
 "Compensating for synaptic loss in Alzheimer's disease". In: _J.
