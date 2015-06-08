@@ -15,6 +15,12 @@ groups.
 
 
 ### 2015 publications
+Bale, M. R, D. Campagner, A. Erskine and R. S. Petersen (2015).
+"Microsecond-scale timing precision in rodent trigeminal primary
+afferents". In: _J. Neurosci._ 35.15, pp. 5935-5940. ISSN:
+0270-6474, 1529-2401. DOI:
+[10.1523/JNEUROSCI.3876-14.2015](http://dx.doi.org/10.1523/JNEUROSCI.3876-14.2015).
+
 Charlesworth, P, E. Cotterill, A. Morton, S. Grant and S. J. Eglen
 (2015). "Quantitative differences in developmental profiles of
 spontaneous activity in cortical and hippocampal cultures". In:
@@ -26,6 +32,12 @@ S. J. Eglen (2015). "Quantitative assessment of computational
 models for retinotopic map formation". In: _Dev. Neurobiol._ 75.6,
 pp. 641-666. ISSN: 1932-8451, 1932-846X. DOI:
 [10.1002/dneu.22241](http://dx.doi.org/10.1002/dneu.22241).
+
+Saudargiene, A, S. Cobb and B. P. Graham (2015). "A computational
+study on plasticity during theta cycles at Schaffer collateral
+synapses on CA1 pyramidal cells in the hippocampus". In:
+_Hippocampus_ 25.2, pp. 208-218. ISSN: 1050-9631, 1098-1063. DOI:
+[10.1002/hipo.22365](http://dx.doi.org/10.1002/hipo.22365).
 
 ### 2014 publications
 Abuhassan, K, D. Coyle, A. Belatreche and L. Maguire (2014).
