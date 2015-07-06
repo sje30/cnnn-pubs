@@ -21,6 +21,12 @@ afferents". In: _J. Neurosci._ 35.15, pp. 5935-5940. ISSN:
 0270-6474, 1529-2401. DOI:
 [10.1523/JNEUROSCI.3876-14.2015](http://dx.doi.org/10.1523/JNEUROSCI.3876-14.2015).
 
+Chadwick, A, M. C. W. van Rossum and M. F. Nolan (2015).
+"Independent theta phase coding accounts for CA1 population
+sequences and enables flexible remapping". In: _Elife_ 4. ISSN:
+2050-084X. DOI:
+[10.7554/eLife.03542](http://dx.doi.org/10.7554/eLife.03542).
+
 Charlesworth, P, E. Cotterill, A. Morton, S. Grant and S. J. Eglen
 (2015). "Quantitative differences in developmental profiles of
 spontaneous activity in cortical and hippocampal cultures". In:
