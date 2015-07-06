@@ -288,6 +288,13 @@ supragranular pyramidal cells in rat barrel cortex". In: _Brain
 Struct. Funct._. ISSN: 1863-2653. DOI:
 [10.1007/s00429-014-0726-8](http://dx.doi.org/10.1007/s00429-014-0726-8).
 
+Stan, A. D, C. V. Schirda, M. A. Bertocci, G. M. Bebko, D. M.
+Kronhaus, H. A. Aslam, E. J. LaBarbara, et al. (2014). "Glutamate
+and GABA contributions to medial prefrontal cortical activity to
+emotion: Implications for mood disorders". In: _Psychiatry Res._.
+ISSN: 0165-1781, 1872-7123. DOI:
+[10.1016/j.pscychresns.2014.05.016](http://dx.doi.org/10.1016/j.pscychresns.2014.05.016).
+
 Sztarker, J. and F. C. Rind (2014). "A look into the cockpit of
 the developing locust: looming detectors and predator avoidance".
 In: _Dev. Neurobiol._ 74.11, pp. 1078-1095. ISSN: 1932-8451. DOI:
@@ -361,11 +368,25 @@ retrieval of associative learning under anesthesia". In:
 _Neuroscience_ 233, pp. 146-156. ISSN: 0306-4522. DOI:
 [10.1016/j.neuroscience.2012.12.039](http://dx.doi.org/10.1016/j.neuroscience.2012.12.039).
 
+Fournier, J. C, M. T. Keener, J. Almeida, D. M. Kronhaus and M. L.
+Phillips (2013). "Amygdala and whole-brain activity to emotional
+faces distinguishes major depressive disorder and bipolar
+disorder". In: _Bipolar Disord._ 15.7, pp. 741-752. ISSN:
+1398-5647, 1399-5618. DOI:
+[10.1111/bdi.12106](http://dx.doi.org/10.1111/bdi.12106).
+
 Gorgolewski, K. J, A. Storkey, M. E. Bastin, I. R. Whittle, J. M.
 Wardlaw and C. R. Pernet (2013). "A test-retest fMRI dataset for
 motor, language and spatial attention functions". In:
 _Gigascience_ 2.1, p. 6. ISSN: 2047-217X. DOI:
 [10.1186/2047-217X-2-6](http://dx.doi.org/10.1186/2047-217X-2-6).
+
+Herringa, R. J, M. L. Phillips, J. C. Fournier, D. M. Kronhaus and
+A. Germain (2013). "Childhood and adult trauma both correlate with
+dorsal anterior cingulate activation to threat in combat
+veterans". In: _Psychol. Med._ 43.7, pp. 1533-1542. ISSN:
+0033-2917, 1469-8978. DOI:
+[10.1017/S0033291712002310](http://dx.doi.org/10.1017/S0033291712002310).
 
 Hunter, P. R, A. S. Lowe, I. D. Thompson and M. P. Meyer (2013).
 "Emergent properties of the optic tectum revealed by population
