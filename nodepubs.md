@@ -135,6 +135,11 @@ PINK1−/− motor cortex is rescued by antidromic stimulation". In:
 _Front. Syst. Neurosci._ 8. ISSN: 1662-5137. DOI:
 [10.3389/fnsys.2014.00095](http://dx.doi.org/10.3389/fnsys.2014.00095).
 
+Cohen, N. and T. Sanders (2014). "Nematode locomotion: dissecting
+the neuronal-environmental loop". In: _Curr. Opin. Neurobiol._ 25,
+pp. 99-106. ISSN: 0959-4388, 1873-6882. DOI:
+[10.1016/j.conb.2013.12.003](http://dx.doi.org/10.1016/j.conb.2013.12.003).
+
 Cutts, C. S. and S. J. Eglen (2014). "Detecting Pairwise
 Correlations in Spike Trains: An Objective Comparison of Methods
 and Application to the Study of Retinal Waves". In: _J. Neurosci._
@@ -483,6 +488,11 @@ connectome". In: _J. Neurosci._ 33.15, pp. 6380-6387. ISSN:
 
 ### 2012 publications
 
+Boyle, J. H, S. Berri and N. Cohen (2012). "Gait Modulation in C.
+elegans: An Integrated Neuromechanical Model". In: _Front. Comput.
+Neurosci._ 6, p. 10. ISSN: 1662-5188. DOI:
+[10.3389/fncom.2012.00010](http://dx.doi.org/10.3389/fncom.2012.00010).
+
 Buchanan, K. A, A. V. Blackman, A. W. Moreau, D. Elgar, R. P.
 Costa, T. Lalanne, A. A. Tudor Jones, et al. (2012).
 "Target-specific expression of presynaptic NMDA receptors in
@@ -512,6 +522,12 @@ D. Thompson and M. P. Meyer (2012). "Parametric functional maps of
 visual inputs to the tectum". In: _Neuron_ 76.2, pp. 317-324.
 ISSN: 0896-6273. DOI:
 [10.1016/j.neuron.2012.08.040](http://dx.doi.org/10.1016/j.neuron.2012.08.040).
+
+Waddington, A, P. A. Appleby, M. De Kamps and N. Cohen (2012).
+"Triphasic spike-timing-dependent plasticity organizes networks to
+produce robust sequences of neural activity". In: _Front. Comput.
+Neurosci._ 6, p. 88. ISSN: 1662-5188. DOI:
+[10.3389/fncom.2012.00088](http://dx.doi.org/10.3389/fncom.2012.00088).
 
 Yousif, N, R. Borisyuk, N. Pavese, D. Nandi and P. Bain (2012).
 "Spatiotemporal visualization of deep brain stimulation-induced
