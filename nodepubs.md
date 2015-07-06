@@ -77,6 +77,13 @@ decision-making". In: _PLoS Comput. Biol._ 11.5, p. e1004301.
 ISSN: 1553-734X, 1553-7358. DOI:
 [10.1371/journal.pcbi.1004301](http://dx.doi.org/10.1371/journal.pcbi.1004301).
 
+Kros, L, O. H. J. Eelkman Rooda, J. K. Spanke, P. Alva, M. N. van
+Dongen, A. Karapatis, E. A. Tolner, et al. (2015). "Cerebellar
+output controls generalized spike-and-wave discharge occurrence".
+In: _Ann. Neurol._ 77.6, pp. 1027-1049. ISSN: 0364-5134,
+1531-8249. DOI:
+[10.1002/ana.24399](http://dx.doi.org/10.1002/ana.24399).
+
 Peraza, L. R, J. Taylor and M. Kaiser (2015). "Divergent brain
 functional network alterations in dementia with Lewy bodies and
 Alzheimer's disease". In: _Neurobiol. Aging_. ISSN: 0197-4580,
