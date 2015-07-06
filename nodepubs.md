@@ -204,6 +204,12 @@ cost on the large-scale architecture of human cortical
 connectivity". In: _PLoS Comput. Biol._ 10.4, p. e1003557. DOI:
 [10.1371/journal.pcbi.1003557](http://dx.doi.org/10.1371/journal.pcbi.1003557).
 
+Sengupta, B, S. B. Laughlin and J. E. Niven (2014). "Consequences
+of converting graded to action potentials upon neural information
+coding and energy efficiency". In: _PLoS Comput. Biol._ 10.1, p.
+e1003439. ISSN: 1553-734X, 1553-7358. DOI:
+[10.1371/journal.pcbi.1003439](http://dx.doi.org/10.1371/journal.pcbi.1003439).
+
 Sharp, T, R. Petersen and S. Furber (2014). "Real-time
 million-synapse simulation of rat barrel cortex". In: _Front.
 Neurosci._ 8, p. 131. ISSN: 1662-4548. DOI:
@@ -378,6 +384,18 @@ Carandini (2013). "Integration of visual motion and locomotion in
 mouse visual cortex". In: _Nat. Neurosci._ 16.12, pp. 1864-1869.
 ISSN: 1097-6256. DOI:
 [10.1038/nn.3567](http://dx.doi.org/10.1038/nn.3567).
+
+Sengupta, B, A. Aldo Faisal, S. B. Laughlin and J. E. Niven
+(2013). "The effect of cell size and channel density on neuronal
+information encoding and energy efficiency". In: _J. Cereb. Blood
+Flow Metab._ 33.9, pp. 1465-1473. ISSN: 0271-678X, 1559-7016. DOI:
+[10.1038/jcbfm.2013.103](http://dx.doi.org/10.1038/jcbfm.2013.103).
+
+Sengupta, B, S. B. Laughlin and J. E. Niven (2013). "Balanced
+excitatory and inhibitory synaptic currents promote efficient
+coding and metabolic efficiency". In: _PLoS Comput. Biol._ 9.10,
+p. e1003263. ISSN: 1553-734X, 1553-7358. DOI:
+[10.1371/journal.pcbi.1003263](http://dx.doi.org/10.1371/journal.pcbi.1003263).
 
 Seth, A. K, P. Chorley and L. C. Barnett (2013). "Granger
 causality analysis of fMRI BOLD signals is invariant to
