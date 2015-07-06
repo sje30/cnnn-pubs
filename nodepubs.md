@@ -15,6 +15,11 @@ groups.
 
 
 ### 2015 publications
+Bach, D. R. (2015). "A cost minimisation and Bayesian inference
+model predicts startle reflex modulation across species". In: _J.
+Theor. Biol._ 370, pp. 53-60. ISSN: 0022-5193, 1095-8541. DOI:
+[10.1016/j.jtbi.2015.01.031](http://dx.doi.org/10.1016/j.jtbi.2015.01.031).
+
 Bale, M. R, D. Campagner, A. Erskine and R. S. Petersen (2015).
 "Microsecond-scale timing precision in rodent trigeminal primary
 afferents". In: _J. Neurosci._ 35.15, pp. 5935-5940. ISSN:
@@ -66,6 +71,11 @@ Kaiser, M. (2015). "Neuroanatomy: connectome connects fly and
 Mammalian brain networks". In: _Curr. Biol._ 25.10, pp. R416-8.
 ISSN: 0960-9822, 1879-0445. DOI:
 [10.1016/j.cub.2015.03.039](http://dx.doi.org/10.1016/j.cub.2015.03.039).
+
+Korn, C. W. and D. R. Bach (2015). "Maintaining homeostasis by
+decision-making". In: _PLoS Comput. Biol._ 11.5, p. e1004301.
+ISSN: 1553-734X, 1553-7358. DOI:
+[10.1371/journal.pcbi.1004301](http://dx.doi.org/10.1371/journal.pcbi.1004301).
 
 Peraza, L. R, J. Taylor and M. Kaiser (2015). "Divergent brain
 functional network alterations in dementia with Lewy bodies and
