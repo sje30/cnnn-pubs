@@ -27,6 +27,11 @@ spontaneous activity in cortical and hippocampal cultures". In:
 _Neural Dev._ 10.1, p. 1. ISSN: 1749-8104. DOI:
 [10.1186/s13064-014-0028-0](http://dx.doi.org/10.1186/s13064-014-0028-0).
 
+Halliday, D. M. (2015). "Nonparametric directionality measures for
+time series and point process data". In: _J. Integr. Neurosci._
+14.2, pp. 253-277. ISSN: 0219-6352. DOI:
+[10.1142/S0219635215300127](http://dx.doi.org/10.1142/S0219635215300127).
+
 Hibar, D. P, J. L. Stein, M. E. Renteria, A. Arias-Vasquez, S.
 Desrivières, N. Jahanshad, R. Toro, et al. (2015). "Common genetic
 variants influence human subcortical brain structures". In:
