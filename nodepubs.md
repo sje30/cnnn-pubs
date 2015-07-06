@@ -68,6 +68,10 @@ synapses on CA1 pyramidal cells in the hippocampus". In:
 _Hippocampus_ 25.2, pp. 208-218. ISSN: 1050-9631, 1098-1063. DOI:
 [10.1002/hipo.22365](http://dx.doi.org/10.1002/hipo.22365).
 
+Smith, L. S. (2015). "Why sharing matters for electrophysiological
+data analysis". In: _Brain Res. Bull._. ISSN: 0361-9230. DOI:
+[10.1016/j.brainresbull.2015.06.009](http://dx.doi.org/10.1016/j.brainresbull.2015.06.009).
+
 ### 2014 publications
 Abuhassan, K, D. Coyle, A. Belatreche and L. Maguire (2014).
 "Compensating for synaptic loss in Alzheimer's disease". In: _J.
