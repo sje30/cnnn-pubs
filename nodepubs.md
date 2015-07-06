@@ -51,6 +51,17 @@ n". In: _Dev. Neurobiol._ 75.6, pp. 557-568. ISSN: 1932-8451,
 1932-846X. DOI:
 [10.1002/dneu.22248](http://dx.doi.org/10.1002/dneu.22248).
 
+Kaiser, M. (2015). "Neuroanatomy: connectome connects fly and
+Mammalian brain networks". In: _Curr. Biol._ 25.10, pp. R416-8.
+ISSN: 0960-9822, 1879-0445. DOI:
+[10.1016/j.cub.2015.03.039](http://dx.doi.org/10.1016/j.cub.2015.03.039).
+
+Peraza, L. R, J. Taylor and M. Kaiser (2015). "Divergent brain
+functional network alterations in dementia with Lewy bodies and
+Alzheimer's disease". In: _Neurobiol. Aging_. ISSN: 0197-4580,
+1558-1497. DOI:
+[10.1016/j.neurobiolaging.2015.05.015](http://dx.doi.org/10.1016/j.neurobiolaging.2015.05.015).
+
 Saudargiene, A, S. Cobb and B. P. Graham (2015). "A computational
 study on plasticity during theta cycles at Schaffer collateral
 synapses on CA1 pyramidal cells in the hippocampus". In:
