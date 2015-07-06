@@ -77,6 +77,12 @@ Smith, L. S. (2015). "Why sharing matters for electrophysiological
 data analysis". In: _Brain Res. Bull._. ISSN: 0361-9230. DOI:
 [10.1016/j.brainresbull.2015.06.009](http://dx.doi.org/10.1016/j.brainresbull.2015.06.009).
 
+Solanka, L, M. C. W. van Rossum, M. F. Nolan and F. K. Skinner
+(2015). "Noise promotes independent control of gamma oscillations
+and grid firing within recurrent attractor networks". In: _eLife
+Sciences_, p. e06444. ISSN: 2050-084X. DOI:
+[10.7554/eLife.06444](http://dx.doi.org/10.7554/eLife.06444).
+
 ### 2014 publications
 Abuhassan, K, D. Coyle, A. Belatreche and L. Maguire (2014).
 "Compensating for synaptic loss in Alzheimer's disease". In: _J.
