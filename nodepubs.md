@@ -33,6 +33,12 @@ models for retinotopic map formation". In: _Dev. Neurobiol._ 75.6,
 pp. 641-666. ISSN: 1932-8451, 1932-846X. DOI:
 [10.1002/dneu.22241](http://dx.doi.org/10.1002/dneu.22241).
 
+Hunter, P. R, A. C. Hendry and A. S. Lowe (2015). "Zebrafish brain
+mapping-standardized spaces, length scales, and the power of N and
+n". In: _Dev. Neurobiol._ 75.6, pp. 557-568. ISSN: 1932-8451,
+1932-846X. DOI:
+[10.1002/dneu.22248](http://dx.doi.org/10.1002/dneu.22248).
+
 Saudargiene, A, S. Cobb and B. P. Graham (2015). "A computational
 study on plasticity during theta cycles at Schaffer collateral
 synapses on CA1 pyramidal cells in the hippocampus". In:
@@ -428,6 +434,12 @@ cells: understanding its functional significance through
 computational models". In: _PLoS Comput. Biol._ 8.10, p. e1002740.
 ISSN: 1553-734X. DOI:
 [10.1371/journal.pcbi.1002740](http://dx.doi.org/10.1371/journal.pcbi.1002740).
+
+Nikolaou, N, A. S. Lowe, A. S. Walker, F. Abbas, P. R. Hunter, I.
+D. Thompson and M. P. Meyer (2012). "Parametric functional maps of
+visual inputs to the tectum". In: _Neuron_ 76.2, pp. 317-324.
+ISSN: 0896-6273. DOI:
+[10.1016/j.neuron.2012.08.040](http://dx.doi.org/10.1016/j.neuron.2012.08.040).
 
 Yousif, N, R. Borisyuk, N. Pavese, D. Nandi and P. Bain (2012).
 "Spatiotemporal visualization of deep brain stimulation-induced
