@@ -113,6 +113,12 @@ conductances". In: _J. Comput. Neurosci._ 38.2, pp. 221-234. ISSN:
 0929-5313, 1573-6873. DOI:
 [10.1007/s10827-014-0537-1](http://dx.doi.org/10.1007/s10827-014-0537-1).
 
+Youssofzadeh, V, G. Prasad and K. Wong-Lin (2015). "On
+self-feedback connectivity in neural mass models applied to
+event-related potentials". In: _Neuroimage_ 108, pp. 364-376.
+ISSN: 1053-8119, 1095-9572. DOI:
+[10.1016/j.neuroimage.2014.12.067](http://dx.doi.org/10.1016/j.neuroimage.2014.12.067).
+
 ### 2014 publications
 Abuhassan, K, D. Coyle, A. Belatreche and L. Maguire (2014).
 "Compensating for synaptic loss in Alzheimer's disease". In: _J.
