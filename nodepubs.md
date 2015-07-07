@@ -230,9 +230,9 @@ Trans. R. Soc. Lond. B Biol. Sci._ 369.1653. ISSN: 0962-8436. DOI:
 Kim, J, H. Ryoo, M. del C. Valdés Hernández, N. A. Royle and J.
 Park (2014). "Brain Ventricular Morphology Analysis Using a Set of
 Ventricular-Specific Feature Descriptors". In: _Biomedical
-Simulation_. Ed. by F. Bello. Lecture Notes in Computer Science.
-Springer International Publishing, pp. 141-149. ISBN:
-9783319120560, 9783319120577. DOI:
+Simulation_. Ed. by F. Bello and S. Cotin. Lecture Notes in
+Computer Science. Springer International Publishing, pp. 141-149.
+ISBN: 9783319120560, 9783319120577. DOI:
 [10.1007/978-3-319-12057-7\_16](http://dx.doi.org/10.1007/978-3-319-12057-7\_16).
 
 Lawson, R. P, B. Seymour, E. Loh, A. Lutti, R. J. Dolan, P. Dayan,
