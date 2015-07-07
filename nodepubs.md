@@ -106,6 +106,13 @@ and grid firing within recurrent attractor networks". In: _eLife
 Sciences_, p. e06444. ISSN: 2050-084X. DOI:
 [10.7554/eLife.06444](http://dx.doi.org/10.7554/eLife.06444).
 
+Sousa, G. de, R. Maex, R. Adams, N. Davey and V. Steuber (2015).
+"Dendritic morphology predicts pattern recognition performance in
+multi-compartmental model neurons with and without active
+conductances". In: _J. Comput. Neurosci._ 38.2, pp. 221-234. ISSN:
+0929-5313, 1573-6873. DOI:
+[10.1007/s10827-014-0537-1](http://dx.doi.org/10.1007/s10827-014-0537-1).
+
 ### 2014 publications
 Abuhassan, K, D. Coyle, A. Belatreche and L. Maguire (2014).
 "Compensating for synaptic loss in Alzheimer's disease". In: _J.
@@ -275,12 +282,6 @@ excitotoxicity involves astrocytic activation and the inhibition
 of MAP kinase signalling pathways". In: _Neuropharmacology_ 76 Pt
 A, pp. 184-193. DOI:
 [10.1016/j.neuropharm.2013.06.025](http://dx.doi.org/10.1016/j.neuropharm.2013.06.025).
-
-Sousa, G. de, R. Maex, R. Adams, N. Davey and V. Steuber (2014).
-"Dendritic morphology predicts pattern recognition performance in
-multi-compartmental model neurons with and without active
-conductances". In: _J. Comput. Neurosci._. ISSN: 0929-5313. DOI:
-[10.1007/s10827-014-0537-1](http://dx.doi.org/10.1007/s10827-014-0537-1).
 
 Staiger, J. F, I. Bojak, S. Miceli and D. Schubert (2014). "A
 gradual depth-dependent change in connectivity features of
