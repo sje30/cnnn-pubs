@@ -235,6 +235,12 @@ Computer Science. Springer International Publishing, pp. 141-149.
 ISBN: 9783319120560, 9783319120577. DOI:
 [10.1007/978-3-319-12057-7\_16](http://dx.doi.org/10.1007/978-3-319-12057-7\_16).
 
+Kim, J, M. D. C. Valdes-Hernandez, N. A. Royle and J. Park (2014).
+"Hippocampal Shape modeling based on a Progressive Template
+Surface Deformation and Its Verification". In: _IEEE Trans. Med.
+Imaging_. ISSN: 0278-0062, 1558-254X. DOI:
+[10.1109/TMI.2014.2382581](http://dx.doi.org/10.1109/TMI.2014.2382581).
+
 Lawson, R. P, B. Seymour, E. Loh, A. Lutti, R. J. Dolan, P. Dayan,
 N. Weiskopf, et al. (2014). "The habenula encodes negative
 motivational value associated with primary punishment in humans".
