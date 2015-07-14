@@ -26,6 +26,12 @@ afferents". In: _J. Neurosci._ 35.15, pp. 5935-5940. ISSN:
 0270-6474, 1529-2401. DOI:
 [10.1523/JNEUROSCI.3876-14.2015](http://dx.doi.org/10.1523/JNEUROSCI.3876-14.2015).
 
+Bruno, A. M, W. N. Frost and M. D. Humphries (2015). "Modular
+deconstruction reveals the dynamical and physical building blocks
+of a locomotion motor program". In: _Neuron_ 86.1, pp. 304-318.
+ISSN: 0896-6273, 1097-4199. DOI:
+[10.1016/j.neuron.2015.03.005](http://dx.doi.org/10.1016/j.neuron.2015.03.005).
+
 Chadwick, A, M. C. W. van Rossum and M. F. Nolan (2015).
 "Independent theta phase coding accounts for CA1 population
 sequences and enables flexible remapping". In: _Elife_ 4. ISSN:
@@ -37,6 +43,12 @@ Charlesworth, P, E. Cotterill, A. Morton, S. Grant and S. J. Eglen
 spontaneous activity in cortical and hippocampal cultures". In:
 _Neural Dev._ 10.1, p. 1. ISSN: 1749-8104. DOI:
 [10.1186/s13064-014-0028-0](http://dx.doi.org/10.1186/s13064-014-0028-0).
+
+Gurney, K. N, M. D. Humphries and P. Redgrave (2015). "A new
+framework for cortico-striatal plasticity: behavioural theory
+meets in vitro data at the reinforcement-action interface". In:
+_PLoS Biol._ 13.1, p. e1002034. ISSN: 1544-9173, 1545-7885. DOI:
+[10.1371/journal.pbio.1002034](http://dx.doi.org/10.1371/journal.pbio.1002034).
 
 Halliday, D. M. (2015). "Nonparametric directionality measures for
 time series and point process data". In: _J. Integr. Neurosci._
